@@ -1,4 +1,3 @@
-# CD-Lab
 %{
 #include <stdio.h>
 %}
